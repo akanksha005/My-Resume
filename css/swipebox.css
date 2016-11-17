@@ -44,6 +44,8 @@ html.swipebox-html.swipebox-touch {
   width: 100%;
   line-height: 1px;
   text-align: center;
+  color:#000;
+  font-weight: bold;
   display: inline-block;
 }
 #swipebox-slider .slide:before {
@@ -120,6 +122,8 @@ html.swipebox-html.swipebox-touch {
 #swipebox-title {
     display: block;
     width: 45%;
+    color:#660000;
+    font-weight: bold;
     text-align: center;
     margin: 0 auto !important;
 }
@@ -304,6 +308,8 @@ html.swipebox-html.swipebox-touch {
 #swipebox-title {
     width: 61%;
     line-height: 1.8em;
+    color:#660000;
+    font-weight: bold;
     margin: 1em auto 0 !important;
 }
 #swipebox-top-bar {
